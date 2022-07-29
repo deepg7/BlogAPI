@@ -15,3 +15,4 @@ jobs:
           heroku_api_key: 978bba1d-e2a9-479c-8f10-650d22a3f731
           heroku_app_name: "koderbox-blog" #Must be unique in Heroku
           heroku_email: "deepsamir.gandhi2020@vitstudent.ac.in"
+          branch: "main"
